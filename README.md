@@ -21,6 +21,3 @@ Exercise to learn the Basics about api loadbalancing and scaling
 1. create a target group and application elb
 1. create launch template and autoscaling group
 
-
-### Tips
-to run flask goto /flaskr flask run
